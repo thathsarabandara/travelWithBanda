@@ -1,0 +1,40 @@
+.text-color-white{
+    color: white;
+}
+.text-color-black{
+    color: black;
+}
+.color{
+    background: linear-gradient(to right, #080808, #3f3b38);
+}  
+.yellow{
+    color: rgb(216, 149, 24);
+}  
+.image{
+    max-height: 600px;
+}
+.square{
+    width: 250px;
+    height: 7px;
+    background-color: rgb(216, 149, 24);
+}
+#destinations .card-body{
+    background-color: #3f3b38;
+}
+#destinations  .card-title{
+    text-align: center;
+    color: white;
+}
+.row-us{
+    justify-content: space-between;
+}
+.bg-grey{
+    background-color: #3f3b38;
+}
+.contacts-area{
+    background: linear-gradient(to top , #080808 , #64c7b2);
+}
+.footer{
+    background-color: #080808;
+    text-align: center;
+}
